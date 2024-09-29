@@ -3,4 +3,6 @@ This repo holds the R scripts for all the analysis of Caitlin Clark's 2024 WNBA 
 
 I calculated two metrics 'point shares' (the percentage of a team’s total points that a player accounts for) and 'assist shares' (the percentage of a team’s total assists that a player accounts for) to compare Clark to the last five seasons of both WNBA and NBA data.
 
+The result are these cool scatterplots with NBA and WNBA players' offensive production in relation to their teams' output.
+![](https://github.com/marginofaaron/caitlinclark/blob/main/nba_wnba_charts.png)
 This script utilizes the [wehoop](https://wehoop.sportsdataverse.org/) package to get WNBA data and the [hoopR](https://hoopr.sportsdataverse.org/) package for NBA data.
